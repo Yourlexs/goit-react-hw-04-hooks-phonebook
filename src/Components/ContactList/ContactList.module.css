@@ -1,0 +1,27 @@
+.contactList {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  font-size: 18px;
+}
+
+.description {
+  margin-right: 50px;
+}
+
+.button {
+  font-size: 15px;
+  padding: 5px;
+  border-radius: 0.2rem;
+}
+
+.button:hover,
+button:focus {
+  background-color: rgba(241, 79, 101, 0.788);
+}

@@ -1,0 +1,18 @@
+.input {
+  color: #333;
+  font-size: 1.2rem;
+  margin-top: 10px;
+  padding: 5px;
+  border-radius: 0.2rem;
+  background-color: rgb(255, 255, 255);
+  border: none;
+  width: 90%;
+  display: block;
+  border-bottom: 0.3rem solid transparent;
+}
+
+.label {
+  font-size: 1.2rem;
+  margin-top: 0.7rem;
+  display: block;
+}
